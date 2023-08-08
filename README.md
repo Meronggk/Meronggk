@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, Cloud Platforms and DevOps**
 
-- 👨‍💻 All of my projects are available at [https://meronggk.github.io/portfolio/](https://meronggk.github.io/portfolio/)
+
 
 - 📫 How to reach me **ggkmeron@gmail.com**
 
