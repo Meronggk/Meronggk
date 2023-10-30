@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meron Gebremichael</h1>
-<h3 align="center" font-style="italic">Software developer</h3>
+<h3 align="center" font-style="italic">Software developer/DevOps Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meronggk&label=Profile%20views&color=0e75b6&style=flat" alt="meronggk" /> </p>
