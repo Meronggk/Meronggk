@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meronggk&label=Profile%20views&color=0e75b6&style=flat" alt="meronggk" /> </p>
 
-- 🌱 I’m currently learning **Python, C#, golang, Cloud Platforms and DevOps**
+- 🌱 I’m currently learning **Python, Typescript, Cloud Platforms and DevOps**
 - 👨‍💻 Some of my projects are available at [https://mgg-portfolio.netlify.app](https://mgg-portfolio.netlify.app)
 - 📫 How to reach me **ggkmeron@gmail.com**
 
